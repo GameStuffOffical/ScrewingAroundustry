@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Screw Aroundustry"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "screw-aroundustry"
 
 #your name
-author: "You"
+author: "GameStuff"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
